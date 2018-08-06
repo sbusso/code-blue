@@ -1,12 +1,12 @@
 {
-    "name": "code-blue",
-    "displayName": "Code Blue",
-    "description": "A carefully concocted dark theme made of subtle blues and bright hues that’s easy on the eyes for focused coding.",
+    "name": "sb-code-blue",
+    "displayName": "SB Code Blue",
+    "description": "Code Blue Thene Fork - A carefully concocted dark theme made of subtle blues and bright hues that’s easy on the eyes for focused coding.",
     "version": "0.9.6",
-    "publisher": "Sujan",
+    "publisher": "sbusso",
     "icon": "icon.png",
     "repository": {
-        "url": "https://github.com/sujan-s/code-blue",
+        "url": "https://github.com/sbusso/code-blue",
         "type": "git"
     },
     "engines": {
@@ -18,9 +18,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Code Blue",
+                "label": "SB Code Blue",
                 "uiTheme": "vs-dark",
-                "path": "./themes/code-blue-theme.json"
+                "path": "./themes/sb-code-blue-theme.json"
             }
         ]
     },
