@@ -71,7 +71,7 @@
         "diffEditor.insertedTextBackground" : "#0ec05c26",
         "diffEditor.removedTextBackground"  : "#ed484933",
 
-        "tab.activeBackground"   : "#2a324b", 
+        "tab.activeBackground"   : "#2a324b",
         "tab.activeForeground"   : "#e2e6e9",
         "tab.activeBorder"       : "#2a324b",
         "tab.hoverBackground"    : "#364161",
@@ -248,7 +248,7 @@
             "scope":
             "punctuation.definition.string.begin,punctuation.definition.string.end",
             "settings": {
-                "foreground": "#7b89b5" 
+                "foreground": "#7b89b5"
             }
         },
         {
@@ -411,7 +411,7 @@
             "name": "operator logical",
             "scope": "keyword.operator.logical",
             "settings": {
-                "foreground": "#ed8085" 
+                "foreground": "#ed8085"
             }
         },
         {
@@ -751,7 +751,7 @@
             "name": "Storage",
             "scope": "storage",
             "settings": {
-                "foreground": "#ec8086" 
+                "foreground": "#ec8086"
             }
         },
         {
@@ -816,7 +816,7 @@
             "name": "Strings, Inherited Class",
             "scope": "string, entity.other.inherited-class",
             "settings": {
-                "foreground": "#f2c37b" 
+                "foreground": "#f2c37b"
             }
         },
         {
@@ -872,7 +872,7 @@
             "name": "Attributes",
             "scope": "entity.other.attribute-name",
             "settings": {
-                "foreground": "#5ad2a0" 
+                "foreground": "#5ad2a0"
             }
         },
         {
